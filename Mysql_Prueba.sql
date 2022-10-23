@@ -1,0 +1,2 @@
+/*Conectar Databases*/ 
+SHOW DATABASES;
